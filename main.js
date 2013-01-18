@@ -34,20 +34,20 @@
 	Modernizr.load([
 
 			// Load dependents
-			'vendor/jquery/full/jquery.js',
+			'wp-content/themes/phipress/vendor/jquery/full/jquery.js',
 
 			// Load extensions
-			// 'src/ui-ix/extensions/navigation/phi.navigation.js',
-			// 'src/ui-ix/extensions/tabs/jquery.foundation.tabs.js',
-			'src/ui-ix/extensions/modals/jquery.foundation.reveal.js',
-			// 'src/ui-ix/extensions/wayfinder/jquery.waypoints.js',
-			// 'src/ui-ix/extensions/alerts/jquery.foundation.alerts.js',
-			// 'src/ui-ix/extensions/date-picker/kalendae.js',
+			// 'wp-content/themes/phipress/src/ui-ix/extensions/navigation/phi.navigation.js',
+			// 'wp-content/themes/phipress/src/ui-ix/extensions/tabs/jquery.foundation.tabs.js',
+			'wp-content/themes/phipress/src/ui-ix/extensions/modals/jquery.foundation.reveal.js',
+			// 'wp-content/themes/phipress/src/ui-ix/extensions/wayfinder/jquery.waypoints.js',
+			// 'wp-content/themes/phipress/src/ui-ix/extensions/alerts/jquery.foundation.alerts.js',
+			// 'wp-content/themes/phipress/src/ui-ix/extensions/date-picker/kalendae.js',
 
 			// Load core js
-			'src/ui-ix/core/core.js',
+			'wp-content/themes/phipress/src/ui-ix/core/core.js',
 
 			// Load project js
-			'src/ui-ix/project/project.js'
+			'wp-content/themes/phipress/src/ui-ix/project/project.js'
 		]);
 }());
